@@ -16,7 +16,7 @@ Multi-agent systems (MAS) could play a pivotal role in realizing future intel- l
 The core scientific contributions of this thesis are as follows: 
 * 1) We define a novel human-inspired agent (robot) needs hierarchy model to consider an agent’s motivation and requirements based on the current status and assigned tasks; 
 * 2) We present a priority-based distributed negotiation-agreement algorithm for realizing multi-agent tasks assignment problems, effectively avoiding plan conflicts – Here, we decompose the tasks into atomic operations and achieve MAS cooperation through a series of simple sub-tasks; 
-* 3) We introduce a new needs-based agent trust and cooperation mechanism to create needs-driven relationships among multiple agents in challenging environments; 
+* 3) We introduce a new needs-based agent trust and cooperation mechanism – relative needs entropy (RNE) – to create needs-driven relationships among multiple agents in challenging environments; 
 * 4) We build a new hierarchical utility network – game-theoretic utility tree (GUT) – to realize game-theoretic solutions for the cooperating MAS in the presence of adversarial opponent agents; 
 * 5) We propose a novel Bayesian strategy networks (BSN) applied to deep reinforcement learning by decomposing tasks into multiple sub-level actions and obtaining the optimal agent policies in unknown and challenging environments.
 
