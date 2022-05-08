@@ -1,7 +1,6 @@
 # Self-Adaptive Swarm Systems (SASS) -- Abstract
-<!-- Qin Yang  -->
 
-Multi-agent systems (MAS) could play a pivotal role in realizing future intel- ligent workspaces, especially in building so-called artificial social systems, such as self-driving cars and multi-robot systems (MRS). For example, MAS/MRS cooperates to increase mission performance in many applications, including exploration, surveillance, defense, humanitarian, and emergency missions like urban search and rescue. In such missions, complex environments such as hazardous, dynamic changing, and adversarial surroundings create a significant challenge to the agents in realizing their full potential. Therefore, this thesis addresses some pressing gaps in the literature in realizing an adaptive MAS by proposing a principled MAS cooperation framework, termed the Self-Adaptive Swarm System (SASS), which bridges communication, planning, decision-making and learning in the distributed MAS.
+Multi-agent systems (MAS) could play a pivotal role in realizing future intelligent workspaces, especially in building so-called artificial social systems, such as self-driving cars and multi-robot systems (MRS). For example, MAS/MRS cooperates to increase mission performance in many applications, including exploration, surveillance, defense, humanitarian, and emergency missions like urban search and rescue. In such missions, complex environments such as hazardous, dynamic changing, and adversarial surroundings create a significant challenge to the agents in realizing their full potential. Therefore, this thesis addresses some pressing gaps in the literature in realizing an adaptive MAS by proposing a principled MAS cooperation framework, termed the Self-Adaptive Swarm System (SASS), which bridges communication, planning, decision-making and learning in the distributed MAS.
 
 <div align = center>
 <img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/sass.png" height="245" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/sass.gif" height="250" alt="Hopper-V2 3SABC Video"/>
@@ -14,7 +13,7 @@ Multi-agent systems (MAS) could play a pivotal role in realizing future intel- l
 ## Contributions
 
 The core scientific contributions of this thesis are as follows: 
-* 1) We define a novel human-inspired `Agent (robot) Needs Hierarchy` model to consider an agent’s motivation and requirements based on the current status and assigned tasks; 
+* 1) We define a novel human-inspired [`Agent (robot) Needs Hierarchy`](https://ieeexplore.ieee.org/abstract/document/9283249) model to consider an agent’s motivation and requirements based on the current status and assigned tasks; 
 * 2) We present a priority-based distributed `Negotiation-Agreement Mechanism` for realizing multi-agent tasks assignment problems, effectively avoiding plan conflicts – Here, we decompose the tasks into `Atomic Operations` and achieve MAS cooperation through a series of simple sub-tasks; 
 * 3) We introduce a new needs-based agent trust and cooperation mechanism – `Relative Needs Entropy (RNE)` – to create needs-driven relationships among multiple agents in challenging environments; 
 * 4) We build a new hierarchical utility network – `Game-theoretic Utility Tree (GUT)` – to realize game-theoretic solutions for the cooperating MAS in the presence of adversarial opponent agents; 
