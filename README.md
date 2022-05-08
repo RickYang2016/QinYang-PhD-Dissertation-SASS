@@ -11,10 +11,12 @@ Multi-agent systems (MAS) could play a pivotal role in realizing future intel- l
 <img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/sass-framework.png" height="245" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/gut.gif" height="250" alt="Hopper-V2 3SABC Video"/>
 </div>
 
-<div align = center>
-<img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/walker2d.png" height="250" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/biped_robot.gif" height="250" alt="Hopper-V2 3SABC Video"/>
-</div>
-
 ## Contributions
 
 The core scientific contributions of this thesis are as follows: 1) we define a novel human-inspired agent (robot) needs hierarchy model to con- sider an agent’s motivation and requirements based on the current status and assigned tasks; 2) we present a priority-based distributed negotiation-agreement algorithm for realizing multi-agent tasks assignment problems, effectively avoid- ing plan conflicts – Here, we decompose the tasks into atomic operations and achieve MAS cooperation through a series of simple sub-tasks; 3) we introduce a new needs-based agent trust and cooperation mechanism to create needs-driven relationships among multiple agents in challenging environments; 4) we build a new hierarchical utility tree to realize game-theoretic solutions for the coop- erating MAS in the presence of adversarial opponent agents; 5) we propose a novel Bayesian strategy networks (BSN) applied to deep reinforcement learning by decomposing tasks into multiple sub-level actions and obtaining the optimal agent policies in unknown and challenging environments.
+
+![image](https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/policy_network.png)
+
+<div align = center>
+<img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/walker2d.png" height="250" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic/blob/main/figures/biped_robot.gif" height="250" alt="Hopper-V2 3SABC Video"/>
+</div>
