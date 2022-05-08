@@ -14,7 +14,7 @@ Multi-agent systems (MAS) could play a pivotal role in realizing future intel- l
 ## Contributions
 
 The core scientific contributions of this thesis are as follows: 
-* we define a novel human-inspired agent (robot) needs hierarchy model to con- sider an agent’s motivation and requirements based on the current status and assigned tasks; 
+* (1) we define a novel human-inspired agent (robot) needs hierarchy model to con- sider an agent’s motivation and requirements based on the current status and assigned tasks; 
 * 2) we present a priority-based distributed negotiation-agreement algorithm for realizing multi-agent tasks assignment problems, effectively avoid- ing plan conflicts – Here, we decompose the tasks into atomic operations and achieve MAS cooperation through a series of simple sub-tasks; 
 * 3) we introduce a new needs-based agent trust and cooperation mechanism to create needs-driven relationships among multiple agents in challenging environments; 
 * 4) we build a new hierarchical utility tree to realize game-theoretic solutions for the coop- erating MAS in the presence of adversarial opponent agents; 
