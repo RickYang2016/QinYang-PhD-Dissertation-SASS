@@ -1,4 +1,4 @@
-# Self-Adaptive Swarm Systems (SASS) -- Abstract
+# [Self-Adaptive Swarm Systems (SASS)](https://www.ijcai.org/proceedings/2021/722) -- Abstract
 
 Multi-agent systems (MAS) could play a pivotal role in realizing future intelligent workspaces, especially in building so-called artificial social systems, such as self-driving cars and multi-robot systems (MRS). For example, MAS/MRS cooperates to increase mission performance in many applications, including exploration, surveillance, defense, humanitarian, and emergency missions like urban search and rescue. In such missions, complex environments such as hazardous, dynamic changing, and adversarial surroundings create a significant challenge to the agents in realizing their full potential. Therefore, this thesis addresses some pressing gaps in the literature in realizing an adaptive MAS by proposing a principled MAS cooperation framework, termed the Self-Adaptive Swarm System (SASS), which bridges communication, planning, decision-making and learning in the distributed MAS.
 
