@@ -18,7 +18,7 @@ The core scientific contributions of this thesis are as follows:
 * 3) We introduce a new needs-based agent trust and cooperation mechanism – [`Relative Needs Entropy (RNE)`](https://ieeexplore.ieee.org/abstract/document/9659187) – to create [needs-driven relationships](https://ieeexplore.ieee.org/abstract/document/9292570) among multiple agents in challenging environments; 
 
 <div align = center>
-<img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.png" height="230" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.gif" height="250" alt="Hopper-V2 3SABC Video"/>
+<img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.png" height="210" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.gif" height="250" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 * 4) We build a new hierarchical utility network – [`Game-theoretic Utility Tree (GUT)`](https://arxiv.org/abs/2004.10950) – to realize game-theoretic solutions for the cooperating MAS in the presence of adversarial opponent agents; 
