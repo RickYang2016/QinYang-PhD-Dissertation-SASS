@@ -27,7 +27,7 @@ The core scientific contributions of this thesis are as follows:
 <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut.jpg" height="250" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_s.gif" height="250" alt="Hopper-V2 3SABC Video"/>
 </div>
 
-Pursuit Domain in Robotarium: `Constant Bearing (CB)`                `Pure Pursuit (PP)`                  `Game-theoretic Utility Tree (GUT)`
+Pursuit Domain in Robotarium: `Constant Bearing (CB)`                `Pure Pursuit (PP)`                  `GUT`
 <div align = center>
 <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/cb.gif" height="141" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/pp.gif" height="141" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_pursuit.gif" height="141" alt="Hopper-V2 3SABC Video"/>
 </div>
