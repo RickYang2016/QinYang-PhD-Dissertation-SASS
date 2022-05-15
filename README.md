@@ -44,3 +44,8 @@ Pursuit Domain in Robotarium: `Constant Bearing (CB)`        vs        `Pure Pur
 <div align = center>
 <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/walker2d.png" height="250" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/biped_robot.gif" height="250" alt="Hopper-V2 3SABC Video"/>
 </div>
+
+Demonstration in OpenAI MuJoCo: `Hopper-V2 (3BSAC)`, `Walker2d-V2 (5BSAC)`, `Humanoid-V2 (5BSAC)`
+<div align = center>
+<img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/hopper-v2_3bsac.gif" height="141" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/walker2d-v2_5bsac.gif" height="141" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/humanoid-v2_3bsac.gif" height="141" alt="Hopper-V2 3SABC Video"/>
+</div>
