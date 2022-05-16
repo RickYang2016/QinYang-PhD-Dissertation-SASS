@@ -17,7 +17,7 @@ The core scientific contributions of this thesis are as follows:
 * 2) We present a priority-based distributed `Negotiation-Agreement Mechanism` for realizing multi-agent tasks assignment problems, effectively avoiding plan conflicts – Here, we decompose the tasks into `Atomic Operations` and achieve MAS cooperation through a series of simple sub-tasks; 
 * 3) We introduce a new needs-based agent trust and cooperation mechanism – [`Relative Needs Entropy (RNE)`](https://ieeexplore.ieee.org/abstract/document/9659187) – to create [needs-driven relationships](https://ieeexplore.ieee.org/abstract/document/9292570) among multiple agents in challenging environments; 
 
-The Simulation of Urban Search And Rescue mission in Unity: Two heterogeneous robot teams cooperative achieving tasks of two different difficulty levels
+The Simulation of two heterogeneous robot teams cooperative achieving tasks in Urban Search And Rescue with Unity:
 <div align = center>
 <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.png" height="235" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.gif" height="235" alt="Hopper-V2 3SABC Video"/>
 </div>
