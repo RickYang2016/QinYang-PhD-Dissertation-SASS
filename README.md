@@ -24,7 +24,7 @@ The simulation of two heterogeneous robot teams cooperative achieving tasks in U
 
 * 4) We build a new hierarchical utility network – [`Game-theoretic Utility Tree (GUT)`](https://arxiv.org/abs/2004.10950) – to realize game-theoretic solutions for the cooperating MAS in the presence of adversarial agents; 
 
-The simulation of explorers against adversaries with GUT achieving a task in [Explore Domain](https://arxiv.org/abs/2004.10950):
+- The simulation of explorers against adversaries with GUT achieving a task in [Explore Domain](https://arxiv.org/abs/2004.10950):
 <div align = center>
 <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut.jpg" height="250" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_s.gif" height="250" alt="Hopper-V2 3SABC Video"/>
 </div>
