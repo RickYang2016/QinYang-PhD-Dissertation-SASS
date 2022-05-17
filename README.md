@@ -27,7 +27,7 @@ The core scientific contributions of this thesis are as follows:
     <div align = center>
     <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut.jpg" height="250" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_s.gif" height="250" alt="Hopper-V2 3SABC Video"/>
     </div>
-    * The Explore Domain in Robotarium: `Greedy Approach` vs `Random Selection` vs `GUT`
+    *The Explore Domain in Robotarium: `Greedy Approach` vs `Random Selection` vs `GUT`
 <div align = center>
 <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/greedy.gif" height="141" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/random.gif" height="141" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_explore.gif" height="141" alt="Hopper-V2 3SABC Video"/>
 </div>
