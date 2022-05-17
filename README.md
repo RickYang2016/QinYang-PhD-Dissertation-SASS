@@ -30,7 +30,7 @@ The core scientific contributions of this thesis are as follows:
 
 > The Explore Domain in Robotarium: `Greedy Approach` vs `Random Selection` vs `GUT`
     <div align = center>
-    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/greedy.gif" height="141" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/random.gif" height="141" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_explore.gif" height="141" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/greedy.gif" height="140" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/random.gif" height="140" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_explore.gif" height="140" alt="Hopper-V2 3SABC Video"/>
     </div>
 
 > Pursuit Domain in Robotarium: `Constant Bearing (CB)` vs `Pure Pursuit (PP)` vs `GUT`
