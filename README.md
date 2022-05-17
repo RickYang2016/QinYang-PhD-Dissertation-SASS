@@ -31,6 +31,7 @@ The core scientific contributions of this thesis are as follows:
 <div align = center>
 <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/greedy.gif" height="141" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/random.gif" height="141" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_explore.gif" height="141" alt="Hopper-V2 3SABC Video"/>
 </div>
+
 > Pursuit Domain in Robotarium: `Constant Bearing (CB)` vs `Pure Pursuit (PP)` vs `GUT`
 <div align = center>
 <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/cb.gif" height="141" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/pp.gif" height="141" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_pursuit.gif" height="141" alt="Hopper-V2 3SABC Video"/>
@@ -44,7 +45,7 @@ The core scientific contributions of this thesis are as follows:
 <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/walker2d.png" height="250" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/biped_robot.gif" height="250" alt="Hopper-V2 3SABC Video"/>
 </div>
 
-   Demonstration in MuJoCo with OpenAI Gym: `Hopper-V2 3BSN`, `Walker2d-V2 5BSN`, `Humanoid-V2 5BSN`
+> Demonstration in MuJoCo with OpenAI Gym: `Hopper-V2 3BSN`, `Walker2d-V2 5BSN`, `Humanoid-V2 5BSN`
 <div align = center>
 <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/hopper-v2_3bsac.png" height="131" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/hopper-v2_3bsac.gif" height="131" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/walker2d_v2_5bsac.png" height="131" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/walker2d-v2_5bsac.gif" height="131" alt="Hopper-V2 3SABC Video">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/humanoid-v2_5bsac.png" height="131" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/humanoid-v2_3bsac.gif" height="131" alt="Hopper-V2 3SABC Video"/>
 </div>
