@@ -35,7 +35,7 @@ The core scientific contributions of this thesis are as follows:
 
 > Pursuit Domain in Robotarium: `Constant Bearing (CB)` vs `Pure Pursuit (PP)` vs `GUT`
     <div align = center>
-    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/cb.gif" height="141" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/pp.gif" height="141" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_pursuit.gif" height="141" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/cb.gif" height="133" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/pp.gif" height="133" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_pursuit.gif" height="133" alt="Hopper-V2 3SABC Video"/>
     </div>
 
 * 5) We propose a novel `Bayesian Strategy Networks (BSN)` applied to deep reinforcement learning by decomposing tasks into multiple sub-level actions and obtaining the optimal agent policies in unknown and challenging environments.
