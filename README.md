@@ -10,6 +10,8 @@ Multi-agent systems (MAS) could play a pivotal role in realizing future intellig
 <img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/sass-framework.png" height="245" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/gut.gif" height="250" alt="Hopper-V2 3SABC Video"/>
 </div>
 
+Note: Check the [Link](https://github.com/RickYang2016/Self-Adaptive-Swarm-System_SASS_MRS2019) for more details.
+
 ## Contributions
 
 The core scientific contributions of this thesis are as follows: 
