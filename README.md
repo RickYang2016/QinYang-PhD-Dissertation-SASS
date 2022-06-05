@@ -15,7 +15,7 @@ Multi-agent systems (MAS) could play a pivotal role in realizing future intellig
 The core scientific contributions of this thesis are as follows: 
 * 1) We define a novel human-inspired [`Agent (robot) Needs Hierarchy`](https://ieeexplore.ieee.org/abstract/document/9283249) model to consider an agent’s motivation and requirements based on the current status and assigned tasks; 
 * 2) We present a priority-based distributed `Negotiation-Agreement Mechanism` for realizing multi-agent tasks assignment problems, effectively avoiding plan conflicts – Here, we decompose the tasks into `Atomic Operations` and achieve MAS cooperation through a series of simple sub-tasks; 
-> * Note: Check the [Link](https://github.com/RickYang2016/Self-Adaptive-Swarm-System_SASS_MRS2019) for more details.
+> *Note: Check the [Link](https://github.com/RickYang2016/Self-Adaptive-Swarm-System_SASS_MRS2019) for more details.
 
 * 3) We introduce a new needs-based agent trust and cooperation mechanism – [`Relative Needs Entropy (RNE)`](https://ieeexplore.ieee.org/abstract/document/9659187) – to create [needs-driven relationships](https://ieeexplore.ieee.org/abstract/document/9292570) among multiple agents in challenging environments; 
 
