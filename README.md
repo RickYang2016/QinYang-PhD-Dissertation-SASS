@@ -10,7 +10,7 @@ Multi-agent systems (MAS) could play a pivotal role in realizing future intellig
 <img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/sass-framework.png" height="245" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/gut.gif" height="250" width="445" alt="Hopper-V2 3SABC Video"/>
 </div>
 
-> <strong>Full Dissertation</strong>: [Self-Adaptive Swarm Systems (SASS)](https://s3.amazonaws.com/na-st01.ext.exlibrisgroup.com/01GALI_UGA/storage/alma/32/A9/64/B6/6F/DF/21/16/CF/E3/D9/93/9B/2C/44/26/YangQinPhD.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220619T143440Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20220619%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=07bca1f7fa86bc239c857c3ea4da628f1912ff0068d66f33a700ce38148f429a)
+## Full Dissertation: [Self-Adaptive Swarm Systems (SASS)](https://s3.amazonaws.com/na-st01.ext.exlibrisgroup.com/01GALI_UGA/storage/alma/32/A9/64/B6/6F/DF/21/16/CF/E3/D9/93/9B/2C/44/26/YangQinPhD.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220619T143440Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20220619%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=07bca1f7fa86bc239c857c3ea4da628f1912ff0068d66f33a700ce38148f429a)
 
 ## Contributions
 
