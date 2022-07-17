@@ -10,7 +10,7 @@ Multi-agent systems (MAS) could play a pivotal role in realizing future intellig
 <img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/sass-framework.png" height="245" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/gut.gif" height="250" width="445" alt="Hopper-V2 3SABC Video"/>
 </div>
 
-## Full Dissertation: [Self-Adaptive Swarm Systems (SASS)](https://s3.amazonaws.com/na-st01.ext.exlibrisgroup.com/01GALI_UGA/storage/alma/32/A9/64/B6/6F/DF/21/16/CF/E3/D9/93/9B/2C/44/26/YangQinPhD.pdf?response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220717T025017Z&X-Amz-SignedHeaders=host&X-Amz-Expires=119&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20220717%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e137308a3df859fac396cb9b39d75211dff542d270f019cade6e5bd90db6d4c8)
+## Full Dissertation: [Self-Adaptive Swarm Systems (SASS)](https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/Yang_Qin_phd_dissertation.pdf)
 
 <!--
 ## Full Dissertation: [Self-Adaptive Swarm Systems (SASS)](https://esploro.libs.uga.edu/esploro/outputs/9949451030302959) -->
