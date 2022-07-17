@@ -13,7 +13,7 @@ Multi-agent systems (MAS) could play a pivotal role in realizing future intellig
 <!--
 ## Full Dissertation: [Self-Adaptive Swarm Systems (SASS)](https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/Yang_Qin_phd_dissertation.pdf) -->
 
-## Full Dissertation: [Self-Adaptive Swarm Systems (SASS)](https://esploro.libs.uga.edu/esploro/outputs/9949451030302959){:target="_blank"}
+## Full Dissertation: [Self-Adaptive Swarm Systems (SASS)](https://esploro.libs.uga.edu/esploro/outputs/9949451030302959){target="_blank"}
 
 <!--
 ## Full Dissertation: [Self-Adaptive Swarm Systems (SASS)](https://www.proquest.com/docview/2682292438?pq-origsite=gscholar&fromopenview=true) 
