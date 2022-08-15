@@ -60,7 +60,7 @@ The core scientific contributions of this thesis are as follows:
     </div>
     *Note: Check the [Link](https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022) for more details.
 
-* 5) We propose a novel `Bayesian Strategy Networks (BSN)` applied to deep reinforcement learning by decomposing tasks into multiple sub-level actions and obtaining the optimal agent policies in unknown and challenging environments.
+* 5) We propose a novel [`Bayesian Strategy Networks (BSN)`](https://arxiv.org/pdf/2208.06033.pdf) applied to deep reinforcement learning by decomposing tasks into multiple sub-level actions and obtaining the optimal agent policies in unknown and challenging environments.
 
 ![image](https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/policy_network.png)
 
@@ -72,3 +72,4 @@ The core scientific contributions of this thesis are as follows:
     <div align = center>
     <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/hopper-v2_3bsac.png" height="125" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/hopper-v2_3bsac.gif" height="125" width="85" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/walker2d_v2_5bsac.png" height="125" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/walker2d-v2_5bsac.gif" height="125" width="85" alt="Hopper-V2 3SABC Video">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/humanoid-v2_5bsac.png" height="125" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/humanoid-v2_3bsac.gif" height="125" width="85" alt="Hopper-V2 3SABC Video"/>
     </div>
+    *Note: Check the [Link](https://github.com/RickYang2016/Bayesian-Soft-Actor-Critic--BSAC) for more details.
