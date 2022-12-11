@@ -65,7 +65,7 @@ The core scientific contributions of this thesis are as follows:
 ![image](https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/policy_network.png)
 
 <div align = center>
-<img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/walker2d.png" height="240" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/biped_robot.gif" height="240" width="360" alt="Hopper-V2 3SABC Video"/>
+<img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/walker2d.png" height="240" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/biped_robot.gif" height="240" width="346" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 > Demonstration in MuJoCo with OpenAI Gym: `Hopper-v2`, `Walker2d-v2`, `Humanoid-v2`
