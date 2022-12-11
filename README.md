@@ -38,7 +38,7 @@ The core scientific contributions of this thesis are as follows:
 
 > The simulation of two heterogeneous robot teams cooperative achieving tasks in USAR with Unity:
     <div align = center>
-    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.png" height="220" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.gif" height="220" width="400" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.png" height="215" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/rne.gif" height="215" width="400" alt="Hopper-V2 3SABC Video"/>
     </div>
     *Note: Check the [Link1](https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020) and [Link2](https://github.com/RickYang2016/RNE-Agent-Trust-Model-SMC2021) for further reading.
 
