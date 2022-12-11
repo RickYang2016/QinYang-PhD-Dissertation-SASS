@@ -50,13 +50,13 @@ The core scientific contributions of this thesis are as follows:
 
 > The Explore Domain in Robotarium: `Greedy Approach` vs `Random Selection` vs `GUT`
     <div align = center>
-    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/greedy.gif" height="133" width="237" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/random.gif" height="133" width="237" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_explore.gif" height="133" width="237" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/greedy.gif" height="130" width="237" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/random.gif" height="130" width="237" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_explore.gif" height="130" width="237" alt="Hopper-V2 3SABC Video"/>
     </div>
     *Note: Check the [Link](https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT) for more details.
 
 > The [Pursuit Domain in Robotarium](https://arxiv.org/abs/2206.01109): `Constant Bearing (CB)` vs `Pure Pursuit (PP)` vs `GUT`
     <div align = center>
-    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/cb.gif" height="133" width="237" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/pp.gif" height="133" width="237" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_pursuit.gif" height="133" width="237" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/cb.gif" height="130" width="237" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/pp.gif" height="130" width="237" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_pursuit.gif" height="130" width="237" alt="Hopper-V2 3SABC Video"/>
     </div>
     *Note: Check the [Link](https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022) for more details.
 
